@@ -1,6 +1,5 @@
-a
-b
-c
+first three lines deleted in INdie Branch!!! 
 de
 f
 this is the new text added to the indie branch
+this line was inserted in Indie branch
